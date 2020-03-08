@@ -25,4 +25,4 @@ _________________
 
 :white_check_mark:|\# | 题目 | 解法 | 难度
 :------: |:------: | :------: | :------:| :------: 
-:o: | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [Java](./src/000.twoSum/Solution.java) | 简单
+:o: | 1 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [Java](./src/000.twoSum/Solution.md) | 简单
